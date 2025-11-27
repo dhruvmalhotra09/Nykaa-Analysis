@@ -8,14 +8,14 @@ The objective was to understand Nykaa’s brand strength, operational challenges
 
 This project includes:
 
-.Company background & evolution
-.Nykaa’s vision, mission, & business model
-.Financial analysis (FY2025 Insights)
-.Revenue streams
-.Market position & competitor mapping
-.Customer review analysis (positive, neutral, negative themes)
-.SWOT analysis
-.Strategic recommendations
+.Company background & evolution <br>
+.Nykaa’s vision, mission, & business model <br>
+.Financial analysis (FY2025 Insights) <br>
+.Revenue streams <br>
+.Market position & competitor mapping <br>
+.Customer review analysis (positive, neutral, negative themes) <br>
+.SWOT analysis <br>
+.Strategic recommendations <br>
 
 All insights are derived from secondary research, annual reports, financial news, and customer reviews.
 
@@ -31,8 +31,8 @@ Net profit up 110% YoY
 
 3. Customer Sentiment
 
-Positives: fast delivery, genuine products, app convenience
-Neutral: returns confusion, stock unavailability
+Positives: fast delivery, genuine products, app convenience <br>
+Neutral: returns confusion, stock unavailability <br>
 Negatives: refund delays, customer support issues, app glitches
 
 4. Competitive Landscape
