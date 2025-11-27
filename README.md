@@ -22,27 +22,27 @@ All insights are derived from secondary research, annual reports, financial news
 >>Key Insights
 1. Strong Omnichannel Strategy
 
-Nykaa’s hybrid inventory + marketplace model ensures authenticity while offering wide product variety.
+  Nykaa’s hybrid inventory + marketplace model ensures authenticity while offering wide product variety.
 
 2. Financial Strength & Growth
 
-FY25 Revenue: ₹7,950 Cr
-Net profit up 110% YoY
+  FY25 Revenue: ₹7,950 Cr <br>
+  Net profit up 110% YoY
 
 3. Customer Sentiment
 
-Positives: fast delivery, genuine products, app convenience <br>
-Neutral: returns confusion, stock unavailability <br>
-Negatives: refund delays, customer support issues, app glitches
+  Positives: fast delivery, genuine products, app convenience <br>
+  Neutral: returns confusion, stock unavailability <br>
+  Negatives: refund delays, customer support issues, app glitches
 
 4. Competitive Landscape
 
-Nykaa leads in Indian beauty retail but faces rising competition from Purplle, Tira, Sephora India, Mamaearth, and Myntra.
+  Nykaa leads in Indian beauty retail but faces rising competition from Purplle, Tira, Sephora India, Mamaearth, and Myntra.
 
 5. Strategic Recommendations
 
-Improve refund timelines
-Strengthen customer support
-Expand Tier-II/III market footprint
-Enhance app experience
-Optimize physical store experience
+  Improve refund timelines <br>
+  Strengthen customer support <br>
+  Expand Tier-II/III market footprint <br>
+  Enhance app experience <br>
+  Optimize physical store experience
