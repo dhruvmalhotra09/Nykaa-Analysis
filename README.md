@@ -22,7 +22,7 @@ All insights are derived from secondary research, annual reports, financial news
 >>Key Insights
 1. Strong Omnichannel Strategy
 
-<space> Nykaa’s hybrid inventory + marketplace model ensures authenticity while offering wide product variety. </space>
+Nykaa’s hybrid inventory + marketplace model ensures authenticity while offering wide product variety. 
 
 2. Financial Strength & Growth
 
