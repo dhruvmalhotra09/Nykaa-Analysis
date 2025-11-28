@@ -53,3 +53,7 @@ Nykaa-Analysis/ <br>
  ├── Presentation/<br>
  │     └── Nykaa Presentation by Dhruv.pptx<br>
  └── README.md
+
+# Conclusion
+
+- This project highlights Nykaa’s strong brand equity, financial growth, and customer-centric strategy while identifying improvement opportunities in customer support, refund processes, and app reliability. It provides a holistic view of Nykaa’s position in India’s beauty and lifestyle industry.
